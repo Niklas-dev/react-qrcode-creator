@@ -1,7 +1,6 @@
 import React from "react";
 import NavBar from "./components/NavBar/navbar";
 import CreateQR from "./components/CreateQR/createqr";
-import AdBanner from "./components/Ads/adbanner";
 
 function App() {
   return (
